@@ -1,0 +1,11 @@
+
+html{
+    --img-wrapper: 600px;
+    --bth-wrapper: 50px
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
